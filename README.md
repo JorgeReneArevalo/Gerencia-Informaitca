@@ -1,0 +1,2 @@
+# Gerencia-Informaitca
+Proyecto Final
